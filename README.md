@@ -3,20 +3,20 @@
 
 This project delivers a powerful, web-based application built with Python (Streamlit) that enables  users to interact with and manage a MySQL database without writing a single line of SQL code. 
 
-It bridges the gap between database complexity and business operations. In real-world scenarios, non-technical users such as managers or team leads often need to access and update data stored in databases. This user interface empowers them to perform essential operations through an  interactive interface.
+It bridges the gap between database complexity and business operations. In real-world scenarios, non-technical users such as managers or team leads often need to access and update data stored in databases. This user interface enables them to perform essential operations through an intuitive and  interactive interface.
 
 
 
 ## ✨ Core Features 
 ### The application translates complex database logic into simple UI components, allowing non-technical users to perform critical business tasks like:
 
-**View & Analyze Data**: Viewing, Exploring,filtering, and sorting real-time data.
+**View & Analyze Data**: Viewing,Exploring,filtering, and sorting real-time data.
 
-**Operational Execution**: Running operations (e.g., updating inventory,  processing orders,updating stock, or marking orders as received) using interactive buttons. 
+**Operational Execution**: Running operations (e.g., updating inventory,  processing orders, updating stock, or marking orders as received) using interactive buttons. 
 
 **Record Management**: Simplified forms and clicks for adding new records or updating existing product and pricing details.
 
-(All actions are executed via buttons,forms, and an easy-to-use interface— no SQL knowledge required for users)
+(All actions are executed via buttons, forms, and an easy-to-use interface— no SQL knowledge required for users)
 
 ## 🛠 Technology Stack 
 
@@ -38,13 +38,13 @@ It bridges the gap between database complexity and business operations. In real-
 
 ### Designed a smart database with features to simulate real-world business logic that includes.
 
-**Tables** : Stores core data like (e.g., products , orders , shipments , inventory)  
+**Tables**: Stores core data like (e.g., products, orders, shipments, inventory)  
 
 **Views** : Provide calculated reports and summaries (e.g., low_stock_alert , product_history ).
 
 **Stored Procedures** :  Executes business transactional actions like (e.g.receive_new_order ,update_stock ).
 
-**Functions** : For business specific-calculations (e.g. check if a product needs restocking)
+**Functions**: For business-specific calculations (e.g., check if a product needs restocking)
 
  ## 2. Streamlit Interaction Layer
 
@@ -53,7 +53,7 @@ It bridges the gap between database complexity and business operations. In real-
   - View and filter data from tables and views
   - Use buttons to run stored procedures (e.g., "Mark order as received")
   - Add or update records (like new products or prices), using clicks
-  - See live results on screen-without writing SQL
+  - See live results on screen, without writing SQL
 
  ## This project is a complete showcase of full-stack data application development, demonstrating mastery in:
 
@@ -74,7 +74,9 @@ It bridges the gap between database complexity and business operations. In real-
      └── README.md              # Project documentation
 
 ## 🎥 Demo Image/Screenshot
-![Dashboard looks like] (https://github.com/Ritika6patel/Python-Driven-UI-for-Advanced-SQL-Database-Operations-/blob/main/UI-image%202.png)
+ Dashboard looks like.-![alt text](https://github.com/username/repo/assets/image.png)
+![Dashboard Preview](https://github.com/Ritika6patel/Python-Driven-UI-for-Advanced-SQL-Database-Operations-/blob/main/UI-image%202.png)
+![Dashboard Preview](https://github.com/Ritika6patel/Python-Driven-UI-for-Advanced-SQL-Database-Operations-/blob/main/UI-image%203.png)
 
   
 
