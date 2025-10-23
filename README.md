@@ -57,11 +57,11 @@ It bridges the gap between database complexity and business operations. In real-
 
  ## This project is a complete showcase of full-stack data application development, demonstrating mastery in:
 
- ## **Layered Systems**: Successfully integrating a Python frontend (Streamlit) to a complex SQL backend (MySQL).
+  **Layered Systems**: Successfully integrating a Python frontend (Streamlit) to a complex SQL backend (MySQL).
 
-### **Enterprise Features**: Leveraging advanced database objects (Stored Procedures, Views, Functions) for efficient and secure operations.
+  **Enterprise Features**: Leveraging advanced database objects (Stored Procedures, Views, Functions) for efficient and secure operations.
 
-* **Real-World Application**: Building a practical tool used in common business scenarios like inventory, sales, and operations management.
+* **Real-World Application**: Building a practical tool used in common business scenarios like inventory, sales, and operations    management.
 * **User-Centric Design**: Creating a non-technical tool that drastically simplifies data access for business users.
 
  ## 📂  Project Structure
