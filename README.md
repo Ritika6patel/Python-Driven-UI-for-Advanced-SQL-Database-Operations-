@@ -74,11 +74,6 @@ It bridges the gap between database complexity and business operations. In real-
      └── README.md              # Project documentation
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
 
