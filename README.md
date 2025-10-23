@@ -74,7 +74,7 @@ It bridges the gap between database complexity and business operations. In real-
      └── README.md              # Project documentation
 
 ## 🎥 Demo Image/Screenshot
-Dashboard looks like ![https://github.com/Ritika6patel/Python-Driven-UI-for-Advanced-SQL-Database-Operations-/blob/main/UI-image%202.png]
+![Dashboard looks like] (https://github.com/Ritika6patel/Python-Driven-UI-for-Advanced-SQL-Database-Operations-/blob/main/UI-image%202.png)
 
   
 
